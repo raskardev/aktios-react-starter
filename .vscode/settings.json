@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "editor.renameOnType": true,
+  "eslint.codeActionsOnSave.mode": "all",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "source.organizeImports": true
+  }
+}
